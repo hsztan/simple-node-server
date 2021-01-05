@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsztan/simple-node-server.git"
+  },
+  "author": "Henry A. Nawrocki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsztan/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/hsztan/simple-node-server#readme",
+  "dependencies": {
+    "slugify": "^1.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
